@@ -1,0 +1,8 @@
+// ****************    Peticiones GET para ver los registros  **************
+
+
+###
+GET http://localhost:3000 HTTP/1.1
+
+###
+GET http://localhost:3000/read' HTTP/1.1
